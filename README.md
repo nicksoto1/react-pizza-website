@@ -2,7 +2,7 @@
  Pizza- Layout
 </h1>
 
-<img src="
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Pizza-Layout é um modelo de website  .
+O Pizza-Layout é um modelo de website desenvolvido no youtube
 
 
 
@@ -57,9 +57,9 @@ $ npm start
 
 
 
-Feito com 💙 by Brian Design https://www.youtube.com/watch?v=GlROncAX4XI&ab_channel=BrianDesign
+Feito com Brian Design pelo https://www.youtube.com/watch?v=GlROncAX4XI&ab_channel=BrianDesign
 
-## ✒️ Author
+## ✒️ Autor
 
 <a href="https://github.com/nicksoto1">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67668995?v=4" width="100px;" alt="Michael Soto"/>
